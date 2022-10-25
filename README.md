@@ -1,1 +1,1 @@
-# Projeto referente ao iFOOD DEV WEEK - Carrinho de Compras
+# Projeto referente ao iFOOD DEV WEEK - API Carrinho de Compras
